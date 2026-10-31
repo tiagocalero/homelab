@@ -41,7 +41,6 @@ flowchart TB
 │       ├── hardware-configuration.nix
 │       ├── networking.nix        # static IP, Pi-hole as DNS, firewall
 │       ├── ssh.nix               # hardened OpenSSH + fail2ban
-│       ├── plex.nix              # Plex Media Server
 │       └── maintenance.nix       # GC, store optimisation, TRIM
 └── docs/
     └── pihole-wireguard.md       # Raspberry Pi setup notes
