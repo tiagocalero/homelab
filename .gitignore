@@ -1,0 +1,7 @@
+result
+result-*
+.direnv/
+# Never commit secrets
+*.key
+*.conf.secret
+wg*.conf
